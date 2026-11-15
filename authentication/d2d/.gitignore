@@ -1,0 +1,3 @@
+# Generated at runtime - never commit private keys or logs
+certs/
+logs/
